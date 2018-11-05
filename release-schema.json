@@ -1,0 +1,20 @@
+{
+  "definitions": {
+    "Organization": {
+      "properties": {
+        "details": {
+          "properties": {
+            "sector": {
+              "title": "Sector",
+              "description": "Sector económico de la parte u organización",
+              "type": [
+                "string",
+                "null"
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

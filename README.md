@@ -1,0 +1,1 @@
+Sector económico de la parte u organización
