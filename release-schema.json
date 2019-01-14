@@ -9,6 +9,7 @@
               "description": "Sector económico de la parte u organización",
               "type": [
                 "string",
+                "number",
                 "null"
               ]
             }
