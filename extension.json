@@ -1,1 +1,11 @@
-{"name":{"en":"sector"},"description":{"en":"Sector económico de la parte u organización"},"documentationUrl":{"en":"https://github.com/sdd1982/sector/blob/master/README.md"}}
+{
+	"name":{"en":"sector"},
+	"description":{"es":"Sector económico de la parte u organización"},
+	"documentationUrl":{"es":"https://github.com/sdd1982/sector/blob/master/README.md"},
+	"schemas": [
+		"release-schema.json"
+	],
+	"compatibility": [
+		"1.1"
+	]
+}
